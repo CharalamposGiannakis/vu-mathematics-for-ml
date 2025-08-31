@@ -25,10 +25,11 @@ This repository follows my MSc coursework. Each topic will eventually include:
 ---
 
 By the end of Year 1, I plan to add:  
+
 2. Dynamic Programming & Reinforcement Learning  
 3. Project Optimization of Business Processes  
 4. Project Reinforcement Learning  
-5. Time Series Models
+5. Time Series Models  
 6. Data Mining Techniques  
 7. Natural Language Processing (NLP)  
 8. Machine Learning for the Quantified Self (QS)
