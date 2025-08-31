@@ -1,0 +1,17 @@
+name: m4ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - sympy
+  - scikit-learn
+  - pip
+  - pip:
+      - black
+      - ruff
+      - pytest
