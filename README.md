@@ -1,11 +1,16 @@
 # Mathematics for Machine Learning
 
-A public, hands-on companion to the mathematical foundations of ML. Built with clear explanations, proofs, and executable notebooks in Python (with notes bridging to Julia, R, and MATLAB where helpful).
+A learning companion for the mathematics behind Machine Learning.  
+This repository follows my MSc in Business Analytics – Computational Intelligence (VU Amsterdam).  
+Its purpose is to document and clarify the mathematical concepts from my coursework,  
+ensuring that each lecture is 100% mathematically understood.
 
-## Why this repo
-- Show the *math behind the methods* in a practical way.
-- Help students (and my future self) go from definition → theorem → intuition → code.
-- Build an open portfolio as I start my Master's in Business Analytics (Computational Intelligence) at VU Amsterdam.
+## Why this repo  
+
+- Keep my MSc notes structured and accessible.  
+- Clarify difficult mathematical concepts with my own explanations.  
+- Collect assignments and comments in one place.  
+- Build a public academic portfolio to share
 
 ## Topics roadmap
 
@@ -19,7 +24,7 @@ This repository follows my MSc coursework. Each topic will eventually include:
 
 ---
 
-By the end of Year 1, I plan to add:
+By the end of Year 1, I plan to add:  
 2. Dynamic Programming & Reinforcement Learning  
 3. Project Optimization of Business Processes  
 4. Project Reinforcement Learning  
