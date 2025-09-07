@@ -21,7 +21,7 @@ This repository follows my MSc coursework. Each topic will eventually include:
 
 ### Courses
 
-📘 Current material: [Lecture 1: Preliminaries](docs/advanced-ml/lecture01.pdf)
+- **[Advanced Machine Learning](docs/advanced-ml/README.md)**
 
 ---
 
