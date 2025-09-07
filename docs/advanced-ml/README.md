@@ -11,7 +11,7 @@ The course follows:
 
 ---
 
-## Course roadmap
+## 📚  Course roadmap
 
 - Introduction  
 - Linear Models  
@@ -23,17 +23,23 @@ The course follows:
 
 ---
 
-## Lectures
+## 📖 Lectures
 
-- [Lecture 1: Preliminaries](lectures/lecture01/lecture01.pdf)
-
-More lectures and comments will be added progressively.
+| Lecture | Topic             | Link                                                                 |
+|---------|-------------------|----------------------------------------------------------------------|
+| 1       | Preliminaries     | [Lecture 1 PDF](lectures/lecture01/lecture01.pdf)                    |
+| 2       | TBD               | *(to be added)*                                                      |
+| 3       | TBD               | *(to be added)* 
 
 ---
  
-## Assignments
+## 📝 Assignments
 
-Assignments will be added by the time
+Assignments will be added progressively
 
 ---
+
+## 🔮 Notes
+- More lectures and comments will be uploaded over time.  
+- Each lecture includes explanations, key formulas, and worked examples.
 
