@@ -1,5 +1,33 @@
-# How to read these notes
+# Advanced Machine Learning
 
-- Start with the intuition and small examples.
-- Keep a pencil nearby — derive at least one equation per section.
-- When you see a theorem, look for the *picture* behind it.
+This section documents my notes and explanations from the MSc course *Advanced Machine Learning*.  
+
+The course follows:
+
+- Bishop, *Pattern Recognition and Machine Learning*  
+- Bishop & Bishop, *Deep Learning: Foundations and Concepts*  
+- Sutton & Barto, *Reinforcement Learning*  
+- Additional lecture material.
+
+---
+
+## Course roadmap
+
+- Introduction  
+- Linear Models  
+- Bayesian Linear Models  
+- Classification  
+- Neural Networks and Deep Neural Networks  
+- Convolutional Neural Networks  
+- Recurrent Neural Networks  
+
+---
+
+## Lectures
+
+- [Lecture 1: Preliminaries](lectures/lecture1/)
+
+More lectures and comments will be added progressively.
+
+---
+ 
