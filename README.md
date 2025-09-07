@@ -22,10 +22,10 @@ This repository follows my MSc coursework. Each topic will eventually include:
 ### 1. Advanced Machine Learning
 
 This section documents my notes and explanations from the MSc course *Advanced Machine Learning  
-The course follows 
-**Bishop, *Pattern Recognition and Machine Learning***
-**Bishop & Bishop, *Deep Learning Foundations and concepts***
-**Sutton & Barto, *Reinforcement Learning***
+The course follows   
+**Bishop, *Pattern Recognition and Machine Learning***   
+**Bishop & Bishop, *Deep Learning Foundations and concepts***   
+**Sutton & Barto, *Reinforcement Learning***    
 additional lecture material.
 
 **Course roadmap:**
