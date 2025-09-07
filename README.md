@@ -20,8 +20,7 @@ This repository follows my MSc coursework. Each topic will eventually include:
 - **Other comments or sections**
 
 ### Courses
-
-- **[Advanced Machine Learning](docs/advanced-ml/README.md)**
+- [Advanced Machine Learning](docs/advanced-ml/)
 
 ---
 
