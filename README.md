@@ -19,27 +19,9 @@ This repository follows my MSc coursework. Each topic will eventually include:
 - **Assignments**
 - **Other comments or sections**
 
-### 1. Advanced Machine Learning
+### Course
 
-This section documents my notes and explanations from the MSc course *Advanced Machine Learning  
-The course follows   
-**Bishop, *Pattern Recognition and Machine Learning***   
-**Bishop & Bishop, *Deep Learning Foundations and concepts***   
-**Sutton & Barto, *Reinforcement Learning***    
-additional lecture material.
-
-**Course roadmap:**
-- Introduction
-- Linear Models  
-- Bayesian Linear Models  
-- Classification  
-- Neural Networks and Deep Neural Networks  
-- Convolutional Neural Networks  
-- Recurrent Neural Networks  
-  
-📄 Current material: [Lecture 1: Preliminaries](docs/advanced-ml/lecture01.pdf)  
-
-More lectures and comments will be added progressively.
+- [Advanced Machine Learning](docs/advanced-ml/README.md)
 
 ---
 
