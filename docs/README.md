@@ -25,7 +25,7 @@ The course follows:
 
 ## Lectures
 
-- [Lecture 1: Preliminaries](lectures/lecture1/)
+- [Lecture 1: Preliminaries](lectures/lecture1/lecture01.pdf)
 
 More lectures and comments will be added progressively.
 
