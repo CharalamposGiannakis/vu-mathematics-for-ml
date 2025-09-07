@@ -31,3 +31,8 @@ More lectures and comments will be added progressively.
 
 ---
  
+## Assignments
+
+Assignments will be added by the time
+
+---
