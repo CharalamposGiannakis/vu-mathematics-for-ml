@@ -29,7 +29,7 @@ The course follows:
 |---------|--------------------------------|------------------------------------------------------------|
 | 1       | Preliminaries                  | [Lecture 1 PDF](lectures/lecture01/lecture01.pdf)          |
 | 2       | Linear models & regularization | [Lecture 2 PDF](lectures/lecture02/lecture02.pdf)          |
-| 3       | TBD                            | *(to be added)*                                            |   
+| 3       | Bayesian Linear Regression     | [Lecture 3 PDF](lectures/lecture03/lecture03.pdf)          |   
 
 ---
  
