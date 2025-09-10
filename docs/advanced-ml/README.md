@@ -25,11 +25,11 @@ The course follows:
 
 ## 📖 Lectures
 
-| Lecture | Topic                          | Link                                                       |
-|---------|--------------------------------|------------------------------------------------------------|
-| 1       | Preliminaries                  | [Lecture 1 PDF](lectures/lecture01/lecture01.pdf)          |
-| 2       | Linear models & regularization | [Lecture 2 PDF](lectures/lecture02/lecture02.pdf)          |
-| 3       | Bayesian Linear Regression     | [Lecture 3 PDF](lectures/lecture03/lecture03.pdf)          |   
+| Lecture | Topic                               | Link                                                  |
+|---------|-------------------------------------|-------------------------------------------------------|
+| 1       | Preliminaries                       | [Lecture 01 PDF](lectures/lecture01/lecture01.pdf)    |
+| 2       | Linear models & regularization      | [Lecture 02 PDF](lectures/lecture02/lecture02.pdf)    |
+| 3       | Linear Regression & Gradient Decent | [Lecture 03 PDF](lectures/lecture03/lecture03.pdf)    |   
 
 ---
  
